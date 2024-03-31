@@ -39,7 +39,7 @@ Immersive Interface:
 2. Installation:
 
 Clone the Repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/CosmicAman/Chat-with-Documents-and-Website
 
 Navigate to the Project Directory:
 cd your_repository
