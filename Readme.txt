@@ -1,6 +1,6 @@
 Chat with Documents and Websites 🤖📄
 
-Welcome to Chat with Documents and Websites, a versatile Streamlit web application developed by [Your Name] for engaging in conversational interactions with documents (PDFs) and websites. Utilizing cutting-edge natural language processing (NLP) techniques, this project aims to provide users with an immersive and intuitive conversational experience. Whether you're exploring textual content from PDF files or engaging with dynamic web content, this application offers a seamless platform for interactive dialogue.
+Welcome to Chat with Documents and Websites, a versatile Streamlit web application developed by Aman kumar for engaging in conversational interactions with documents (PDFs) and websites. Utilizing cutting-edge natural language processing (NLP) techniques, this project aims to provide users with an immersive and intuitive conversational experience. Whether you're exploring textual content from PDF files or engaging with dynamic web content, this application offers a seamless platform for interactive dialogue.
 
 Table of Contents:
 
