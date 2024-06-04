@@ -23,7 +23,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO)
 
 # MongoDB connection
-uri = "mongodb+srv://aman7480nano:aman@cluster0.xvjyq3x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://aman7480nano:<your password>@cluster0.xvjyq3x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 client = MongoClient(uri, server_api=ServerApi('1'))
 db = client['Sharansh']
 chat_history_collection = db['Chat_History']
